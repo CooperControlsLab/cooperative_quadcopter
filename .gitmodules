@@ -1,0 +1,15 @@
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/bitcraze/crazyflie-lib-python.git
+[submodule "crazyflie-clients-python"]
+	path = crazyflie-clients-python
+	url = https://github.com/bitcraze/crazyflie-clients-python.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/USC-ACTLab/crazyflie-firmware.git
+[submodule "crazyflie2-nrf-firmware"]
+	path = crazyflie2-nrf-firmware
+	url = https://github.com/bitcraze/crazyflie2-nrf-firmware.git
+[submodule "crazyradio-firmware"]
+	path = crazyradio-firmware
+	url = https://github.com/bitcraze/crazyradio-firmware.git
