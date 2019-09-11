@@ -13,3 +13,6 @@
 [submodule "crazyradio-firmware"]
 	path = crazyradio-firmware
 	url = https://github.com/bitcraze/crazyradio-firmware.git
+[submodule "pyvicon"]
+	path = pyvicon
+	url = https://github.com/MathGaron/pyvicon.git
