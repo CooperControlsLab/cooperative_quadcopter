@@ -35,12 +35,14 @@ Authors: Andrew Chin and Andrew Mosin<br/>
 
 To run cfclient (UI based)
 
-`cd crazyswarm/crazyflie-clients-python/bin`
-`python cfclient`
+`cd ~/crazyflie/crazyflie-clients-python/bin`
+`python3 cfclient`
 
-alias cfcli
+Labeled drones underneath with small numbers 1-2. These have updated firmware and unique radio URI's.
+`radio://0/35/2M/E7E7E7E701`
+`radio://0/35/2M/E7E7E7E702`
 
-To run hover script to ensure radio is working:
+To run scripts to ensure radio is working:
 `cd crazyswarm/crazyflie-lib-python/examples`
 
 `gcc -Wall -Werror -Wextra -pedantic -L. ViconDataStreamSDK_CPPTest.cpp -llibViconDataStreamSDK_CPP.so -o test`
