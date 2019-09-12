@@ -40,7 +40,7 @@ To run cfclient (UI based)
 
 Labeled drones underneath with small numbers 1-2. These have updated firmware and unique radio URI's.
 `radio://0/35/2M/E7E7E7E701`
-`radio://0/35/2M/E7E7E7E702`
+`radio://0/80/2M/E7E7E7E702`
 
 To run scripts to ensure radio is working:
 `cd crazyswarm/crazyflie-lib-python/examples`
